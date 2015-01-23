@@ -12,3 +12,6 @@ _build
 distribute-*
 local
 .tox
+local.properties
+.gradle
+cassowary-java.iml

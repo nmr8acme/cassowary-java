@@ -1,3 +1,5 @@
+ARGH = "I broke the make file in the gradle conversion. Sorry ;)"
+$(error $(ARGH))
 
 JAVAFILES = \
 	AbstractConstraint.java \
